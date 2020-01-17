@@ -4,14 +4,16 @@ Longan Nano Pong Game
 
 [Farmwear]
 
-NanoPong64KB.bin 
+NanoPong64KB.bin
+
 NanoPong128KB.bin
 
 [Sauce]
 
 main.c
 
-Longan_GD32VF_examples/gd32v_lcd/src/ 
+sipeed/Longan_GD32VF_examples/gd32v_lcd/src/ 
+
 Replace main.c and build
 
 [Hardware]
