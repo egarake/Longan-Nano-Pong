@@ -20,7 +20,7 @@ Replace main.c and build
 
 VR Left  GND A0 3.3V
 
-VR Right GND A0 3.3V
+VR Right GND A1 3.3V
 
 SW BOOT0 A8 3.3V
 
